@@ -1,0 +1,1 @@
+# bamboo-rest-plugin-czeladko
